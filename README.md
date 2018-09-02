@@ -1,2 +1,0 @@
-# solarboatchallengeintroduction
-Created with CodeSandbox
